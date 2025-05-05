@@ -1,0 +1,14 @@
+name: depth_pixel_art
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - pip
+  - pytorch
+  - torchvision
+  - scikit-learn
+  - pip:
+    - opencv-python
