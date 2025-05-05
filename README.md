@@ -40,7 +40,7 @@ monocular depth estimation
 (Left: Edges on simply merging masks; Right: Edges after specifically processing)
 
 <div style="text-align: center; gap: 50px;">
-    <img src="/home/salonisaxena/work/Projects/Pixel-Art/outputs/depth_based/outputs_wo_grid/Screenshot 2025-01-30 111922.png" width="30%" height="30%">
+    <img src="outputs/depth_based/outputs_wo_grid/wogrid_ss.png" width="30%" height="30%">
     <img src="outputs/depth_based/outputs/Screenshot 2025-01-30 111824.png" width="30%" height="30%">
 
 - Pixel size varies by depth. Each block’s average color is quantized to the closest palette color.
